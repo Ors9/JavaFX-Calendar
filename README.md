@@ -52,7 +52,11 @@ Double-click `run.bat` (requires JavaFX path inside the script).
 
 ## Screenshot
 
-> Add a screenshot showing the calendar grid and the meeting dialog
+![image](https://github.com/user-attachments/assets/5007b9f2-d090-4b4c-98d6-671ebc398a42)
+![image](https://github.com/user-attachments/assets/c99a63cc-3b25-4a1c-b899-4c3dd281ff29)
+![image](https://github.com/user-attachments/assets/37d82bc7-6f0e-4814-8181-953e86739d53)
+![image](https://github.com/user-attachments/assets/fb07d79a-a517-4cf9-839a-1a9043d6cd68)
+
 
 ## Author
 
